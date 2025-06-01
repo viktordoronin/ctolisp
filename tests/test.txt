@@ -1,0 +1,37 @@
+int a=16;
+int a,c=3,d,x=148;
+
+
+
+int b;
+int d,e;
+
+int globvector[16];
+func(int v){
+    funcvar=3;
+	funcvar=4;
+	v=v+1;
+	v=square(7);
+	return v;
+}
+func2(){
+	funcvar=8;
+    otherfuncvar=69;
+	otherfuncvar=50;
+}
+main(){
+square(8);
+    @ 69;
+    int a=2;
+    x=148;
+    gg=213414;
+    puts ("Hello");
+	printf("string",a,b,"Hello","Helo again");
+    while(a>=0){b=3;}
+	if(a&&0){b=8;}else{d=9;c=18;}
+	for(a=85;a%5==9;a+=1){a=4;}
+	int myvector[32];
+	printf("%s",myvector[3]);
+	myvector[5]=123;
+}
+//@ (main)
